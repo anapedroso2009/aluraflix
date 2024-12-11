@@ -91,3 +91,44 @@ body {
 .categoria-videos img:hover {
     opacity: 1.0;
 }
+.categoria-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid green;
+}
+.categoria-videos img:hover {
+    opacity: 1.0;
+}
+
+.categoria h2 {
+
+}
+.categoria h2 {
+    color: rgb(42, 122, 228);
+}
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+  }
+  body {
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+    margin-bottom: 100px;
+  }
+  <section class="categoria">
+    <h2>Filmes e séries</h2>
+    <div class="categoria-videos">
+        <img src="video1.jpg" alt="Vídeo 1">
+        <img src="video2.jpg" alt="Vídeo 2">
+        <img src="video3.jpg" alt="Vídeo 3">
+    </div>
+</section>
+.portfolio img {
+    opacity: 0.5;
+}
+.portfolio img:hover {
+    opacity: 1.0;
+}
+ 
